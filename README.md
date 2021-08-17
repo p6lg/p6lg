@@ -1,5 +1,5 @@
 ### ***C and C++ Developer***
-### *Current C developer for Grief API Services*
+### *Current C developer for Yumato API Services*
 
 
 ### ***Intrests: ![alt text](https://img.shields.io/badge/-Linux-d3d3d3?style=flat-square&logo=Linux&logoColor=white) ![alt text](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white) ![alt text](https://img.shields.io/badge/-++-214cce?style=flat-square&logo=c&logoColor=white) ![alt text](https://img.shields.io/badge/--214cce?style=flat-square&logo=c&logoColor=white)***
